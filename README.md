@@ -1,4 +1,3 @@
-# free-robux.github.io
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -32,10 +31,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Vérification de sécurité pour ID BOT</h1>
-        <p>Toutes les images sont effacées de nos serveurs au bout de 5 min.</p>
-        <a href="#" class="button">Procéder à la vérification</a>
-        <p>Votre sécurité est notre priorité</p>
+        <!-- Le contenu a été supprimé -->
     </div>
 </body>
 </html>
